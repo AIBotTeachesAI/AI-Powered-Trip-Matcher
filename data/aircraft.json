@@ -1,0 +1,24 @@
+[
+  {
+    "id": "A1",
+    "location": "San Francisco",
+    "seats": 6,
+    "range_km": 2000,
+    "cost_per_hour": 2500
+  },
+  {
+    "id": "B2",
+    "location": "Los Angeles",
+    "seats": 4,
+    "range_km": 1200,
+    "cost_per_hour": 1800
+  },
+  {
+    "id": "C3",
+    "location": "San Francisco",
+    "seats": 3,
+    "range_km": 800,
+    "cost_per_hour": 1200
+  }
+]
+
